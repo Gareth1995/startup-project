@@ -1,2 +1,2 @@
 # startup-project
-first project repository on github
+ This is the first project I have created on github.
